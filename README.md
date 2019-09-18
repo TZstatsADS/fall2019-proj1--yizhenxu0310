@@ -9,10 +9,12 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Project title: Song lyrics text mining for racial discrimination
++ This project is conducted by Yizhen Xu (yx2470)
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: The main topic of this project is to analyze the racial discrimination words,including chink,nigger&nigga,spic,honky,kika and wetback. And the main topic can be divided into two parts:1.The level of racial discrimination of each genre, indicated as the number of such words. 2.How many racial descrimination words used for each race? With one more step data cleaning job, eliminating outliers based on length of lyrics, I do a exploratory data analysis. The conclusions are that 1.Hip-Hop song has an overwhelming use of discrimination words and 2.it seems like the African Americans are disrespected most bacause of the highest fequency of n-word.
+
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
